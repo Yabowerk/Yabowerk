@@ -12,7 +12,8 @@ Am Full Stack Developer, AI Automation Engineer and Computer Engineer who builds
 **Databases:** MySQL, Supabase (PostgreSQL) , MongoDB
 
 **Other:** API Integration, Photoshop, MATLAB, Arduino
-
+<br>
+<br>
 
 You can contact me at abityab34@gmail.com
 
