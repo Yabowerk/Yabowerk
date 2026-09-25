@@ -9,7 +9,7 @@ Am Full Stack Developer, AI Automation Engineer and Computer Engineer who builds
 
 **Tools & Frameworks:** Node.js, Express, React, Git, Docker, Postman, Vercel, n8n, CI/CD (GitHub Actions)
 
-**Databases:** MySQL, Supabase (PostgreSQL)
+**Databases:** MySQL, Supabase (PostgreSQL) , MongoDB
 
 **Other:** API Integration, Photoshop, MATLAB, Arduino
 
