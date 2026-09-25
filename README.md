@@ -14,6 +14,9 @@ Am Full Stack Developer, AI Automation Engineer and Computer Engineer who builds
 **Other:** API Integration, Photoshop, MATLAB, Arduino
 
 
+You can contact me at abityab34@gmail.com
+
+
 <!--
 **Yabowerk/Yabowerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
