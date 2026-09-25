@@ -1,8 +1,8 @@
 ## Hi there 👋
-
-Am Full Stack Developer, AI Automation Engineer and Computer Engineer who builds clean web applications and automates workflows with intelligent systems from designing front-end interfaces to architecting robust backends with a focus on integrating AI to solve real-world problems efficiently.
 ---
+Am Full Stack Developer, AI Automation Engineer and Computer Engineer who builds clean web applications and automates workflows with intelligent systems from designing front-end interfaces to architecting robust backends with a focus on integrating AI to solve real-world problems efficiently.
 
+---
 ##Tech-Stack
 
 **Languages:** C++, JavaScript, TypeScript, HTML5, CSS3, SQL
